@@ -1,1 +1,2 @@
-"Hi,I'm master branch
+"Hi,I'm master branch"
+"Hi,I'm secondBranch"
