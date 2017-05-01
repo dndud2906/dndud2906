@@ -1,3 +1,7 @@
 "Hi,I'm master branch"
-"Hi,I'm secondBranch"//conflict
+<<<<<<< HEAD
+"Hi,I'm secondBranch"
 
+=======
+"Hi,I'm secondBranch"//secondBranch
+>>>>>>> secondBranch
