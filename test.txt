@@ -1,0 +1,7 @@
+"Hi,I'm master branch"
+<<<<<<< HEAD
+"Hi,I'm secondBranch"
+
+=======
+"Hi,I'm secondBranch"//secondBranch
+>>>>>>> secondBranch
